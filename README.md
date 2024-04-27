@@ -55,11 +55,11 @@ The dashboard is designed to provide below valuable insights:
 + Region wise performance.
 
 ### **Visualizations:**
-|                              |             |
-| ---------------------------- | ----------- |
-| Chart types                  | Donut, Scatter, Area, Waterfall, Line and Clustered Column, Ribbon.|
-| Data representation          | Cards & KPIs, Matrix.|
-| Filtering & Selection        | Filters, Bookmark and Top N slicers.|
-| Interactivity and Navigation | Button, Tooltip, and Report Navigation.|
-| Other tools                  | Conditional Formatting.|
+|                                  |             |
+| -------------------------------- | ----------- |
+| **Chart types**                  | Donut, Scatter, Area, Waterfall, Line and Clustered Column, Ribbon.|
+| **Data representation**          | Cards & KPIs, Matrix.|
+| **Filtering & Selection**        | Filters, Bookmark and Top N slicers.|
+| **Interactivity and Navigation** | Button, Tooltip, and Report Navigation.|
+| **Other tools**                  | Conditional Formatting.|
 
