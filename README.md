@@ -63,4 +63,4 @@ The dashboard is designed to provide below valuable insights:
 | **Interactivity and Navigation** | Button, Tooltip, and Report Navigation.|
 | **Other tools**                  | Conditional Formatting.|
 
-### **Live Dashboard link:** https://app.powerbi.com/view?r=eyJrIjoiYTdiOTYzOTQtODAxNS00ODVjLTkwOGQtZGRhN2ZmNzNmMjMzIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+### **Live Dashboard link:** 
